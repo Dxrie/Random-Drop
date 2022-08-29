@@ -1,0 +1,4 @@
+name: Randomdrop
+version: '${project.version}'
+main: randomdrop.randomdrop.Randomdrop
+api-version: 1.18
